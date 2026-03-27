@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Google",
+    "status": "up",
+    "time": 217,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "Wikipedia",
+    "status": "up",
+    "time": 306,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "Hacker News",
+    "status": "up",
+    "time": 293,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "abnzb",
+    "status": "up",
+    "time": 187,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "NZBGrabit",
+    "status": "up",
+    "time": 318,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "omgwtfnzbs",
+    "status": "up",
+    "time": 564,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "althub",
+    "status": "up",
+    "time": 588,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "binnewz",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "binsearch",
+    "status": "up",
+    "time": 467,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "birds-of-binaries",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "92.31",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "bluraynzb",
+    "status": "up",
+    "time": 797,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "dognzb",
+    "status": "up",
+    "time": 1038,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "drunken-slug",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "easy-leech",
+    "status": "up",
+    "time": 185,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "elitenzb",
+    "status": "up",
+    "time": 405,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "fileleechers",
+    "status": "up",
+    "time": 394,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "gingadaddy",
+    "status": "up",
+    "time": 573,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "headphones-vip",
+    "status": "up",
+    "time": 611,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "house-of-usenet",
+    "status": "up",
+    "time": 844,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "miatrix",
+    "status": "up",
+    "time": 221,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "newz-complex",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "newzfinders",
+    "status": "up",
+    "time": 1641,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "newznzb",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "ninjacentral",
+    "status": "up",
+    "time": 360,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbking",
+    "status": "up",
+    "time": 619,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbnation",
+    "status": "up",
+    "time": 718,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "NZB Su",
+    "status": "up",
+    "time": 302,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbwolf",
+    "status": "up",
+    "time": 720,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbcave",
+    "status": "up",
+    "time": 11283,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbfinder",
+    "status": "up",
+    "time": 627,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbforyou",
+    "status": "up",
+    "time": 1149,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "NZBFriends",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbgeek",
+    "status": "up",
+    "time": 941,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbhunter",
+    "status": "up",
+    "time": 705,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbindex",
+    "status": "up",
+    "time": 1044,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "NZBIndex.nl",
+    "status": "up",
+    "time": 1442,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbnewzfrance",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbnoob",
+    "status": "up",
+    "time": 1073,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbplanet",
+    "status": "up",
+    "time": 601,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbs2go",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbscc",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbserver",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbstars",
+    "status": "up",
+    "time": 833,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbxs",
+    "status": "up",
+    "time": 265,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "pourcesoir",
+    "status": "up",
+    "time": 1080,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "scenenzbs",
+    "status": "up",
+    "time": 1229,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "Sky of Usenet",
+    "status": "up",
+    "time": 712,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "tabula-rasa",
+    "status": "up",
+    "time": 1291,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "The Hive",
+    "status": "up",
+    "time": 2064,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "Usenet Hub",
+    "status": "up",
+    "time": 1352,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "usenetcrawler",
+    "status": "up",
+    "time": 681,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "usenethd",
+    "status": "up",
+    "time": 1035,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "wtfnzb",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "IPv6 test",
+    "status": "up",
+    "time": 89,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "binzb",
+    "status": "up",
+    "time": 101,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "brothers-of-usenet",
+    "status": "up",
+    "time": 64,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "FileSharingTalk",
+    "status": "up",
+    "time": 84,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "findnzb",
+    "status": "up",
+    "time": 110,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzbcat",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "nzb-id",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "spots-xenetix-nl",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "0.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  }
+]
