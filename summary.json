@@ -63,15 +63,6 @@
     "uptimeYear": "0.00"
   },
   {
-    "name": "binnewz",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
     "name": "binsearch",
     "status": "up",
     "time": 467,
@@ -84,7 +75,7 @@
     "name": "birds-of-binaries",
     "status": "unknown",
     "time": 0,
-    "uptimeDay": "92.31",
+    "uptimeDay": "94.12",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -103,15 +94,6 @@
     "status": "up",
     "time": 1038,
     "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "drunken-slug",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -180,28 +162,10 @@
     "uptimeYear": "0.00"
   },
   {
-    "name": "newz-complex",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
     "name": "newzfinders",
     "status": "up",
     "time": 1641,
     "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "newznzb",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -279,15 +243,6 @@
     "uptimeYear": "0.00"
   },
   {
-    "name": "NZBFriends",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
     "name": "nzbgeek",
     "status": "up",
     "time": 941,
@@ -324,15 +279,6 @@
     "uptimeYear": "0.00"
   },
   {
-    "name": "nzbnewzfrance",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
     "name": "nzbnoob",
     "status": "up",
     "time": 1073,
@@ -346,33 +292,6 @@
     "status": "up",
     "time": 601,
     "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzbs2go",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzbscc",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzbserver",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -468,15 +387,6 @@
     "uptimeYear": "0.00"
   },
   {
-    "name": "wtfnzb",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
     "name": "IPv6 test",
     "status": "up",
     "time": 89,
@@ -517,33 +427,6 @@
     "status": "up",
     "time": 110,
     "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzbcat",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzb-id",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "spots-xenetix-nl",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
