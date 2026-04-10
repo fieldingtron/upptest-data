@@ -92,8 +92,8 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1055,
-    "uptimeDay": "79.31",
+    "time": 1076,
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -181,8 +181,8 @@
   },
   {
     "name": "nzbking",
-    "status": "up",
-    "time": 1312,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -299,8 +299,8 @@
   {
     "name": "nzbstars",
     "status": "up",
-    "time": 923,
-    "uptimeDay": "92.00",
+    "time": 852,
+    "uptimeDay": "92.31",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 971,
+    "time": 888,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 165,
+    "time": 190,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
