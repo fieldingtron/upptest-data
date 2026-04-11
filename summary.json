@@ -74,7 +74,7 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 172,
+    "time": 852,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -146,7 +146,7 @@
   {
     "name": "house-of-usenet",
     "status": "up",
-    "time": 1038,
+    "time": 1015,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -181,8 +181,8 @@
   },
   {
     "name": "nzbking",
-    "status": "up",
-    "time": 27906,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -299,8 +299,8 @@
   {
     "name": "nzbstars",
     "status": "up",
-    "time": 813,
-    "uptimeDay": "48.15",
+    "time": 798,
+    "uptimeDay": "44.44",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 862,
+    "time": 1093,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -344,8 +344,8 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1334,
-    "uptimeDay": "69.23",
+    "time": 1263,
+    "uptimeDay": "70.37",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 238,
+    "time": 157,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
