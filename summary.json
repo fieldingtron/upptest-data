@@ -73,8 +73,8 @@
   },
   {
     "name": "birds-of-binaries",
-    "status": "up",
-    "time": 792,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -182,8 +182,8 @@
   {
     "name": "nzbking",
     "status": "up",
-    "time": 1055,
-    "uptimeDay": "70.37",
+    "time": 1034,
+    "uptimeDay": "66.67",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -298,8 +298,8 @@
   },
   {
     "name": "nzbstars",
-    "status": "up",
-    "time": 961,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 1152,
+    "time": 1329,
     "uptimeDay": "63.33",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 294,
+    "time": 292,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
