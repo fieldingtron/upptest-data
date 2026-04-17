@@ -74,7 +74,7 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 321,
+    "time": 1447,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -146,8 +146,8 @@
   {
     "name": "house-of-usenet",
     "status": "up",
-    "time": 885,
-    "uptimeDay": "88.46",
+    "time": 1677,
+    "uptimeDay": "88.89",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -190,7 +190,7 @@
   },
   {
     "name": "nzbnation",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 618,
+    "time": 615,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -344,7 +344,7 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1295,
+    "time": 1330,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 160,
+    "time": 242,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
