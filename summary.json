@@ -74,7 +74,7 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 716,
+    "time": 155,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -110,7 +110,7 @@
   {
     "name": "elitenzb",
     "status": "up",
-    "time": 425,
+    "time": 401,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -146,7 +146,7 @@
   {
     "name": "house-of-usenet",
     "status": "up",
-    "time": 883,
+    "time": 1096,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -191,7 +191,7 @@
   {
     "name": "nzbnation",
     "status": "up",
-    "time": 495,
+    "time": 352,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -200,7 +200,7 @@
   {
     "name": "NZB Su",
     "status": "up",
-    "time": 327,
+    "time": 329,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -218,7 +218,7 @@
   {
     "name": "nzbcave",
     "status": "up",
-    "time": 2556,
+    "time": 2567,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 734,
+    "time": 627,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -263,7 +263,7 @@
   {
     "name": "nzbindex",
     "status": "up",
-    "time": 550,
+    "time": 555,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -308,7 +308,7 @@
   {
     "name": "nzbxs",
     "status": "up",
-    "time": 228,
+    "time": 851,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -343,9 +343,9 @@
   },
   {
     "name": "tabula-rasa",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
-    "uptimeDay": "96.00",
+    "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -371,7 +371,7 @@
   {
     "name": "usenetcrawler",
     "status": "up",
-    "time": 1068,
+    "time": 689,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 212,
+    "time": 268,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
