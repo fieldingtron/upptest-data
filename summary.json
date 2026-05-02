@@ -92,7 +92,7 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 917,
+    "time": 940,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -191,8 +191,8 @@
   {
     "name": "nzbnation",
     "status": "up",
-    "time": 540,
-    "uptimeDay": "70.00",
+    "time": 365,
+    "uptimeDay": "70.97",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -235,8 +235,8 @@
   },
   {
     "name": "nzbforyou",
-    "status": "down",
-    "time": 0,
+    "status": "up",
+    "time": 493,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
