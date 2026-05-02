@@ -192,7 +192,7 @@
     "name": "nzbnation",
     "status": "down",
     "time": 0,
-    "uptimeDay": "73.33",
+    "uptimeDay": "79.31",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -217,7 +217,7 @@
   },
   {
     "name": "nzbcave",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 192,
+    "time": 244,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
