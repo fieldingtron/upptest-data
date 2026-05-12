@@ -92,8 +92,8 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1162,
-    "uptimeDay": "81.48",
+    "time": 1133,
+    "uptimeDay": "82.14",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -316,9 +316,9 @@
   },
   {
     "name": "pourcesoir",
-    "status": "up",
-    "time": 1134,
-    "uptimeDay": "59.38",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "57.58",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
