@@ -92,8 +92,8 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1210,
-    "uptimeDay": "78.57",
+    "time": 1214,
+    "uptimeDay": "79.31",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -226,9 +226,9 @@
   },
   {
     "name": "nzbfinder",
-    "status": "down",
-    "time": 0,
-    "uptimeDay": "84.62",
+    "status": "up",
+    "time": 618,
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -316,9 +316,9 @@
   },
   {
     "name": "pourcesoir",
-    "status": "up",
-    "time": 907,
-    "uptimeDay": "56.25",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "57.58",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
