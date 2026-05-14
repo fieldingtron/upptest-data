@@ -92,7 +92,7 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 998,
+    "time": 1030,
     "uptimeDay": "82.14",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -227,8 +227,8 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 660,
-    "uptimeDay": "72.41",
+    "time": 668,
+    "uptimeDay": "73.33",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -316,9 +316,9 @@
   },
   {
     "name": "pourcesoir",
-    "status": "up",
-    "time": 5154,
-    "uptimeDay": "73.33",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "70.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -344,8 +344,8 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1263,
-    "uptimeDay": "88.46",
+    "time": 1286,
+    "uptimeDay": "88.89",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
