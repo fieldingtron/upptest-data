@@ -74,8 +74,8 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 263,
-    "uptimeDay": "95.83",
+    "time": 429,
+    "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -92,7 +92,7 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1030,
+    "time": 934,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -110,8 +110,8 @@
   {
     "name": "elitenzb",
     "status": "up",
-    "time": 291,
-    "uptimeDay": "74.07",
+    "time": 165,
+    "uptimeDay": "75.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -218,8 +218,8 @@
   {
     "name": "nzbcave",
     "status": "up",
-    "time": 2011,
-    "uptimeDay": "88.46",
+    "time": 2248,
+    "uptimeDay": "88.89",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 616,
+    "time": 606,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 873,
+    "time": 869,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -344,7 +344,7 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1257,
+    "time": 1271,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -353,8 +353,8 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 1667,
-    "uptimeDay": "11.54",
+    "time": 1682,
+    "uptimeDay": "11.11",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
