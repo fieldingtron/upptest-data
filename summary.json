@@ -74,8 +74,8 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 745,
-    "uptimeDay": "100.00",
+    "time": 1902,
+    "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -91,8 +91,8 @@
   },
   {
     "name": "dognzb",
-    "status": "up",
-    "time": 1060,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -110,7 +110,7 @@
   {
     "name": "elitenzb",
     "status": "up",
-    "time": 383,
+    "time": 360,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -191,7 +191,7 @@
   {
     "name": "nzbnation",
     "status": "up",
-    "time": 517,
+    "time": 380,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -218,7 +218,7 @@
   {
     "name": "nzbcave",
     "status": "up",
-    "time": 1583,
+    "time": 2603,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 619,
+    "time": 610,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 5819,
+    "time": 1144,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -326,8 +326,8 @@
   {
     "name": "scenenzbs",
     "status": "up",
-    "time": 1158,
-    "uptimeDay": "84.62",
+    "time": 1182,
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -344,7 +344,7 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1263,
+    "time": 1282,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -352,8 +352,8 @@
   },
   {
     "name": "The Hive",
-    "status": "up",
-    "time": 1354,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
