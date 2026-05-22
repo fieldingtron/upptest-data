@@ -74,7 +74,7 @@
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 1824,
+    "time": 2051,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -92,7 +92,7 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1083,
+    "time": 1087,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -110,7 +110,7 @@
   {
     "name": "elitenzb",
     "status": "up",
-    "time": 174,
+    "time": 275,
     "uptimeDay": "77.78",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -120,7 +120,7 @@
     "name": "fileleechers",
     "status": "down",
     "time": 0,
-    "uptimeDay": "84.62",
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -128,7 +128,7 @@
   {
     "name": "gingadaddy",
     "status": "up",
-    "time": 711,
+    "time": 613,
     "uptimeDay": "0.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -191,8 +191,8 @@
   {
     "name": "nzbnation",
     "status": "up",
-    "time": 482,
-    "uptimeDay": "95.83",
+    "time": 350,
+    "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -218,7 +218,7 @@
   {
     "name": "nzbcave",
     "status": "up",
-    "time": 2095,
+    "time": 2090,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 627,
+    "time": 634,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -236,7 +236,7 @@
   {
     "name": "nzbforyou",
     "status": "up",
-    "time": 480,
+    "time": 511,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 936,
+    "time": 1251,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -326,7 +326,7 @@
   {
     "name": "scenenzbs",
     "status": "up",
-    "time": 1509,
+    "time": 1280,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -344,7 +344,7 @@
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 1238,
+    "time": 1257,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -353,7 +353,7 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 1317,
+    "time": 1172,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
