@@ -91,8 +91,8 @@
   },
   {
     "name": "dognzb",
-    "status": "down",
-    "time": 0,
+    "status": "up",
+    "time": 1049,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,8 +317,8 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 1093,
-    "uptimeDay": "60.00",
+    "time": 877,
+    "uptimeDay": "63.33",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -353,7 +353,7 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 1298,
+    "time": 1421,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
