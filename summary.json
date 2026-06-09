@@ -92,7 +92,7 @@
   {
     "name": "dognzb",
     "status": "up",
-    "time": 1035,
+    "time": 1163,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -352,9 +352,9 @@
   },
   {
     "name": "The Hive",
-    "status": "down",
-    "time": 0,
-    "uptimeDay": "85.19",
+    "status": "up",
+    "time": 1285,
+    "uptimeDay": "81.48",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
