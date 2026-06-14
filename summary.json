@@ -93,7 +93,7 @@
     "name": "dognzb",
     "status": "up",
     "time": 1362,
-    "uptimeDay": "96.00",
+    "uptimeDay": "95.83",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 1111,
+    "time": 994,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -353,7 +353,7 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 1112,
+    "time": 1011,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -362,7 +362,7 @@
   {
     "name": "Usenet Hub",
     "status": "up",
-    "time": 4350,
+    "time": 5369,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -371,8 +371,8 @@
   {
     "name": "usenetcrawler",
     "status": "up",
-    "time": 1061,
-    "uptimeDay": "95.83",
+    "time": 658,
+    "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
