@@ -83,7 +83,7 @@
   {
     "name": "bluraynzb",
     "status": "up",
-    "time": 1180,
+    "time": 1179,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -191,7 +191,7 @@
   {
     "name": "nzbnation",
     "status": "up",
-    "time": 358,
+    "time": 511,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -227,7 +227,7 @@
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 616,
+    "time": 612,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -236,7 +236,7 @@
   {
     "name": "nzbforyou",
     "status": "up",
-    "time": 520,
+    "time": 564,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -253,8 +253,8 @@
   },
   {
     "name": "nzbhunter",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 604,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -281,7 +281,7 @@
   {
     "name": "nzbnoob",
     "status": "up",
-    "time": 938,
+    "time": 921,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -326,7 +326,7 @@
   {
     "name": "scenenzbs",
     "status": "up",
-    "time": 1279,
+    "time": 1186,
     "uptimeDay": "48.15",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -353,7 +353,7 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 859,
+    "time": 1124,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -362,7 +362,7 @@
   {
     "name": "Usenet Hub",
     "status": "up",
-    "time": 2336,
+    "time": 12563,
     "uptimeDay": "92.31",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -370,8 +370,8 @@
   },
   {
     "name": "usenetcrawler",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 913,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -380,7 +380,7 @@
   {
     "name": "usenethd",
     "status": "up",
-    "time": 1151,
+    "time": 1090,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
