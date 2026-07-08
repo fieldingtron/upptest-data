@@ -316,7 +316,7 @@
   },
   {
     "name": "pourcesoir",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "60.00",
     "uptimeWeek": "0.00",
@@ -325,9 +325,9 @@
   },
   {
     "name": "scenenzbs",
-    "status": "up",
-    "time": 10246,
-    "uptimeDay": "30.36",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "30.91",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
