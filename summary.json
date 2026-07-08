@@ -316,17 +316,17 @@
   },
   {
     "name": "pourcesoir",
-    "status": "down",
-    "time": 0,
-    "uptimeDay": "60.00",
+    "status": "up",
+    "time": 885,
+    "uptimeDay": "51.52",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
   },
   {
     "name": "scenenzbs",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 9757,
     "uptimeDay": "30.91",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
