@@ -325,9 +325,9 @@
   },
   {
     "name": "scenenzbs",
-    "status": "up",
-    "time": 15267,
-    "uptimeDay": "42.55",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "40.82",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
