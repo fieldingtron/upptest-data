@@ -73,9 +73,9 @@
   },
   {
     "name": "birds-of-binaries",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "75.00",
+    "status": "up",
+    "time": 1111,
+    "uptimeDay": "72.73",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -109,8 +109,8 @@
   },
   {
     "name": "elitenzb",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 870,
     "uptimeDay": "55.56",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
