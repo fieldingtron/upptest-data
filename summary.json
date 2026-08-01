@@ -73,8 +73,8 @@
   },
   {
     "name": "birds-of-binaries",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 286,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -353,8 +353,8 @@
   {
     "name": "The Hive",
     "status": "up",
-    "time": 980,
-    "uptimeDay": "50.00",
+    "time": 1169,
+    "uptimeDay": "45.45",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
