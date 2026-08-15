@@ -352,8 +352,8 @@
   },
   {
     "name": "The Hive",
-    "status": "up",
-    "time": 1164,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "73.33",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
