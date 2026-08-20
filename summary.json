@@ -316,9 +316,9 @@
   },
   {
     "name": "pourcesoir",
-    "status": "unknown",
-    "time": 0,
-    "uptimeDay": "100.00",
+    "status": "up",
+    "time": 861,
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -354,7 +354,7 @@
     "name": "The Hive",
     "status": "down",
     "time": 0,
-    "uptimeDay": "6.67",
+    "uptimeDay": "3.45",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
