@@ -1,7 +1,7 @@
 [
   {
     "name": "Google",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Wikipedia",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Hacker News",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -28,7 +28,7 @@
   },
   {
     "name": "abnzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -37,7 +37,7 @@
   },
   {
     "name": "NZBGrabit",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -57,14 +57,14 @@
     "name": "althub",
     "status": "down",
     "time": 0,
-    "uptimeDay": "77.78",
+    "uptimeDay": "74.07",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
   },
   {
     "name": "binsearch",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -82,7 +82,7 @@
   },
   {
     "name": "bluraynzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -91,7 +91,7 @@
   },
   {
     "name": "dognzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -100,7 +100,7 @@
   },
   {
     "name": "easy-leech",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -127,7 +127,7 @@
   },
   {
     "name": "gingadaddy",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -136,7 +136,7 @@
   },
   {
     "name": "headphones-vip",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -145,7 +145,7 @@
   },
   {
     "name": "house-of-usenet",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -154,7 +154,7 @@
   },
   {
     "name": "miatrix",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -163,7 +163,7 @@
   },
   {
     "name": "newzfinders",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -181,7 +181,7 @@
   },
   {
     "name": "nzbking",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -190,7 +190,7 @@
   },
   {
     "name": "nzbnation",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -208,7 +208,7 @@
   },
   {
     "name": "nzbwolf",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -226,7 +226,7 @@
   },
   {
     "name": "nzbfinder",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -244,7 +244,7 @@
   },
   {
     "name": "nzbgeek",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -262,7 +262,7 @@
   },
   {
     "name": "nzbindex",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -271,7 +271,7 @@
   },
   {
     "name": "NZBIndex.nl",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -280,7 +280,7 @@
   },
   {
     "name": "nzbnoob",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -289,7 +289,7 @@
   },
   {
     "name": "nzbplanet",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -318,14 +318,14 @@
     "name": "pourcesoir",
     "status": "up",
     "time": 13929,
-    "uptimeDay": "96.00",
+    "uptimeDay": "95.83",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
   },
   {
     "name": "scenenzbs",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -343,7 +343,7 @@
   },
   {
     "name": "tabula-rasa",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -352,7 +352,7 @@
   },
   {
     "name": "The Hive",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -379,7 +379,7 @@
   },
   {
     "name": "usenethd",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -388,7 +388,7 @@
   },
   {
     "name": "IPv6 test",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -397,7 +397,7 @@
   },
   {
     "name": "binzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -406,7 +406,7 @@
   },
   {
     "name": "brothers-of-usenet",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -415,7 +415,7 @@
   },
   {
     "name": "FileSharingTalk",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -424,7 +424,7 @@
   },
   {
     "name": "findnzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -433,8 +433,8 @@
   },
   {
     "name": "digital-carnage",
-    "status": "up",
-    "time": 173,
+    "status": "down",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
