@@ -1,8 +1,8 @@
 [
   {
     "name": "Google",
-    "status": "up",
-    "time": 510,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -10,8 +10,8 @@
   },
   {
     "name": "Wikipedia",
-    "status": "up",
-    "time": 338,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -19,8 +19,8 @@
   },
   {
     "name": "Hacker News",
-    "status": "up",
-    "time": 249,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -28,8 +28,8 @@
   },
   {
     "name": "abnzb",
-    "status": "up",
-    "time": 280,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -37,8 +37,8 @@
   },
   {
     "name": "NZBGrabit",
-    "status": "up",
-    "time": 324,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -55,17 +55,17 @@
   },
   {
     "name": "althub",
-    "status": "up",
-    "time": 561,
-    "uptimeDay": "100.00",
+    "status": "down",
+    "time": 0,
+    "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
   },
   {
     "name": "binsearch",
-    "status": "up",
-    "time": 504,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -82,8 +82,8 @@
   },
   {
     "name": "bluraynzb",
-    "status": "up",
-    "time": 1291,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -91,8 +91,8 @@
   },
   {
     "name": "dognzb",
-    "status": "up",
-    "time": 658,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -100,8 +100,8 @@
   },
   {
     "name": "easy-leech",
-    "status": "up",
-    "time": 183,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -127,51 +127,6 @@
   },
   {
     "name": "gingadaddy",
-    "status": "up",
-    "time": 661,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "headphones-vip",
-    "status": "up",
-    "time": 629,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "house-of-usenet",
-    "status": "up",
-    "time": 966,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "miatrix",
-    "status": "up",
-    "time": 374,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "newzfinders",
-    "status": "up",
-    "time": 1493,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "ninjacentral",
     "status": "unknown",
     "time": 0,
     "uptimeDay": "100.00",
@@ -180,9 +135,54 @@
     "uptimeYear": "0.00"
   },
   {
+    "name": "headphones-vip",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "house-of-usenet",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "miatrix",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "newzfinders",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
+    "name": "ninjacentral",
+    "status": "down",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
     "name": "nzbking",
-    "status": "up",
-    "time": 1103,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -190,8 +190,8 @@
   },
   {
     "name": "nzbnation",
-    "status": "up",
-    "time": 344,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -208,8 +208,8 @@
   },
   {
     "name": "nzbwolf",
-    "status": "up",
-    "time": 808,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -226,8 +226,8 @@
   },
   {
     "name": "nzbfinder",
-    "status": "up",
-    "time": 797,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -235,7 +235,7 @@
   },
   {
     "name": "nzbforyou",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -244,15 +244,6 @@
   },
   {
     "name": "nzbgeek",
-    "status": "up",
-    "time": 858,
-    "uptimeDay": "100.00",
-    "uptimeWeek": "0.00",
-    "uptimeMonth": "0.00",
-    "uptimeYear": "0.00"
-  },
-  {
-    "name": "nzbhunter",
     "status": "unknown",
     "time": 0,
     "uptimeDay": "100.00",
@@ -261,9 +252,18 @@
     "uptimeYear": "0.00"
   },
   {
+    "name": "nzbhunter",
+    "status": "down",
+    "time": 0,
+    "uptimeDay": "100.00",
+    "uptimeWeek": "0.00",
+    "uptimeMonth": "0.00",
+    "uptimeYear": "0.00"
+  },
+  {
     "name": "nzbindex",
-    "status": "up",
-    "time": 702,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -271,8 +271,8 @@
   },
   {
     "name": "NZBIndex.nl",
-    "status": "up",
-    "time": 1419,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -280,8 +280,8 @@
   },
   {
     "name": "nzbnoob",
-    "status": "up",
-    "time": 688,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -289,8 +289,8 @@
   },
   {
     "name": "nzbplanet",
-    "status": "up",
-    "time": 611,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -318,15 +318,15 @@
     "name": "pourcesoir",
     "status": "up",
     "time": 947,
-    "uptimeDay": "96.00",
+    "uptimeDay": "95.83",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
   },
   {
     "name": "scenenzbs",
-    "status": "up",
-    "time": 1907,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Sky of Usenet",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
@@ -343,8 +343,8 @@
   },
   {
     "name": "tabula-rasa",
-    "status": "up",
-    "time": 1320,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -352,8 +352,8 @@
   },
   {
     "name": "The Hive",
-    "status": "up",
-    "time": 877,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -370,7 +370,7 @@
   },
   {
     "name": "usenetcrawler",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -379,8 +379,8 @@
   },
   {
     "name": "usenethd",
-    "status": "up",
-    "time": 1174,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -388,8 +388,8 @@
   },
   {
     "name": "IPv6 test",
-    "status": "up",
-    "time": 116,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -397,8 +397,8 @@
   },
   {
     "name": "binzb",
-    "status": "up",
-    "time": 188,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -406,8 +406,8 @@
   },
   {
     "name": "brothers-of-usenet",
-    "status": "up",
-    "time": 115,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -415,8 +415,8 @@
   },
   {
     "name": "FileSharingTalk",
-    "status": "up",
-    "time": 197,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -424,8 +424,8 @@
   },
   {
     "name": "findnzb",
-    "status": "up",
-    "time": 173,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 131,
+    "time": 60,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
