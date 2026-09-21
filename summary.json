@@ -57,7 +57,7 @@
     "name": "althub",
     "status": "down",
     "time": 0,
-    "uptimeDay": "85.19",
+    "uptimeDay": "81.48",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -73,7 +73,7 @@
   },
   {
     "name": "birds-of-binaries",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
@@ -109,7 +109,7 @@
   },
   {
     "name": "elitenzb",
-    "status": "unknown",
+    "status": "down",
     "time": 0,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
@@ -318,7 +318,7 @@
     "name": "pourcesoir",
     "status": "up",
     "time": 870,
-    "uptimeDay": "96.00",
+    "uptimeDay": "95.83",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -336,7 +336,7 @@
     "name": "Sky of Usenet",
     "status": "down",
     "time": 0,
-    "uptimeDay": "85.19",
+    "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -434,7 +434,7 @@
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 60,
+    "time": 250,
     "uptimeDay": "100.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
