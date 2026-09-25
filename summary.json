@@ -316,8 +316,8 @@
   },
   {
     "name": "pourcesoir",
-    "status": "up",
-    "time": 1507,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "68.75",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
