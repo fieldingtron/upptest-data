@@ -73,9 +73,9 @@
   },
   {
     "name": "birds-of-binaries",
-    "status": "up",
-    "time": 706,
-    "uptimeDay": "75.00",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "77.42",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -109,9 +109,9 @@
   },
   {
     "name": "elitenzb",
-    "status": "up",
-    "time": 502,
-    "uptimeDay": "75.00",
+    "status": "unknown",
+    "time": 0,
+    "uptimeDay": "77.42",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
     "uptimeYear": "0.00"
@@ -316,8 +316,8 @@
   },
   {
     "name": "pourcesoir",
-    "status": "up",
-    "time": 984,
+    "status": "unknown",
+    "time": 0,
     "uptimeDay": "96.00",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
