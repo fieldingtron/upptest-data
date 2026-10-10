@@ -109,8 +109,8 @@
   },
   {
     "name": "elitenzb",
-    "status": "unknown",
-    "time": 0,
+    "status": "up",
+    "time": 523,
     "uptimeDay": "68.57",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
@@ -317,7 +317,7 @@
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 1234,
+    "time": 1146,
     "uptimeDay": "85.19",
     "uptimeWeek": "0.00",
     "uptimeMonth": "0.00",
