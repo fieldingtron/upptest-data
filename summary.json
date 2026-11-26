@@ -2,52 +2,52 @@
   {
     "name": "Google",
     "status": "up",
-    "time": 282,
+    "time": 270,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:52.205Z"
+    "last_checked_at": "2026-11-26T06:04:52.206Z"
   },
   {
     "name": "Wikipedia",
     "status": "up",
-    "time": 357,
+    "time": 393,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:52.748Z"
+    "last_checked_at": "2026-11-26T06:04:52.749Z"
   },
   {
     "name": "Hacker News",
     "status": "up",
-    "time": 247,
+    "time": 270,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:53.788Z"
+    "last_checked_at": "2026-11-26T06:04:53.789Z"
   },
   {
     "name": "abnzb",
     "status": "up",
-    "time": 243,
+    "time": 142,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:54.604Z"
+    "last_checked_at": "2026-11-26T06:05:54.603Z"
   },
   {
     "name": "NZBGrabit",
     "status": "up",
-    "time": 300,
+    "time": 536,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:54.966Z"
+    "last_checked_at": "2026-11-26T06:04:54.967Z"
   },
   {
     "name": "omgwtfnzbs",
@@ -57,67 +57,67 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:01:55.874Z"
+    "last_checked_at": "2026-11-26T06:01:55.875Z"
   },
   {
     "name": "althub",
     "status": "up",
-    "time": 589,
+    "time": 561,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:56.774Z"
+    "last_checked_at": "2026-11-26T06:04:56.774Z"
   },
   {
     "name": "binsearch",
     "status": "up",
-    "time": 322,
+    "time": 392,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:57.429Z"
+    "last_checked_at": "2026-11-26T06:05:57.430Z"
   },
   {
     "name": "birds-of-binaries",
     "status": "up",
-    "time": 462,
+    "time": 371,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:17:58.406Z"
+    "last_checked_at": "2026-11-26T06:17:58.407Z"
   },
   {
     "name": "bluraynzb",
     "status": "up",
-    "time": 1883,
+    "time": 2007,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:04:59.646Z"
+    "last_checked_at": "2026-11-26T06:04:59.646Z"
   },
   {
     "name": "dognzb",
     "status": "up",
-    "time": 837,
+    "time": 1423,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:00.111Z"
+    "last_checked_at": "2026-11-26T06:05:00.112Z"
   },
   {
     "name": "easy-leech",
     "status": "up",
-    "time": 240,
+    "time": 246,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:01.177Z"
+    "last_checked_at": "2026-11-26T06:05:01.177Z"
   },
   {
     "name": "elitenzb",
@@ -127,7 +127,7 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:01.933Z"
+    "last_checked_at": "2026-11-26T06:02:01.933Z"
   },
   {
     "name": "fileleechers",
@@ -137,27 +137,27 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:02.406Z"
+    "last_checked_at": "2026-11-26T06:02:02.406Z"
   },
   {
     "name": "gingadaddy",
     "status": "down",
     "time": 0,
-    "uptimeDay": "66.67",
+    "uptimeDay": "62.96",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:10:02.860Z"
+    "last_checked_at": "2026-11-26T06:10:02.860Z"
   },
   {
     "name": "headphones-vip",
     "status": "up",
-    "time": 637,
+    "time": 639,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:03.573Z"
+    "last_checked_at": "2026-11-26T06:05:03.573Z"
   },
   {
     "name": "house-of-usenet",
@@ -167,47 +167,47 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:04.371Z"
+    "last_checked_at": "2026-11-26T06:02:04.372Z"
   },
   {
     "name": "miatrix",
     "status": "up",
-    "time": 561,
+    "time": 368,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:06:04.706Z"
+    "last_checked_at": "2026-11-26T06:06:04.706Z"
   },
   {
     "name": "newzfinders",
     "status": "up",
-    "time": 1511,
+    "time": 1543,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:05.601Z"
+    "last_checked_at": "2026-11-26T06:05:05.601Z"
   },
   {
     "name": "ninjacentral",
     "status": "up",
-    "time": 647,
+    "time": 340,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:05.983Z"
+    "last_checked_at": "2026-11-26T06:05:05.984Z"
   },
   {
     "name": "nzbking",
     "status": "up",
-    "time": 1038,
+    "time": 1555,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:06.471Z"
+    "last_checked_at": "2026-11-26T06:05:06.472Z"
   },
   {
     "name": "nzbnation",
@@ -217,7 +217,7 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:07.302Z"
+    "last_checked_at": "2026-11-26T06:02:07.303Z"
   },
   {
     "name": "NZB Su",
@@ -227,17 +227,17 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:07.858Z"
+    "last_checked_at": "2026-11-26T06:02:07.859Z"
   },
   {
     "name": "nzbwolf",
     "status": "up",
-    "time": 1017,
+    "time": 725,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:06:08.496Z"
+    "last_checked_at": "2026-11-26T06:06:08.497Z"
   },
   {
     "name": "nzbcave",
@@ -247,87 +247,87 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:09.015Z"
+    "last_checked_at": "2026-11-26T06:02:09.016Z"
   },
   {
     "name": "nzbfinder",
     "status": "up",
-    "time": 565,
+    "time": 552,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:09.950Z"
+    "last_checked_at": "2026-11-26T06:05:09.951Z"
   },
   {
     "name": "nzbforyou",
     "status": "down",
     "time": 0,
-    "uptimeDay": "62.96",
+    "uptimeDay": "59.26",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:14:10.550Z"
+    "last_checked_at": "2026-11-26T06:14:10.549Z"
   },
   {
     "name": "nzbgeek",
     "status": "up",
-    "time": 790,
+    "time": 785,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:11.402Z"
+    "last_checked_at": "2026-11-26T06:05:11.402Z"
   },
   {
     "name": "nzbhunter",
     "status": "up",
-    "time": 820,
+    "time": 684,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:12.130Z"
+    "last_checked_at": "2026-11-26T06:05:12.131Z"
   },
   {
     "name": "nzbindex",
     "status": "up",
-    "time": 759,
+    "time": 767,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:12.667Z"
+    "last_checked_at": "2026-11-26T06:05:12.667Z"
   },
   {
     "name": "NZBIndex.nl",
     "status": "up",
-    "time": 1746,
+    "time": 1528,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:13.162Z"
+    "last_checked_at": "2026-11-26T06:05:13.163Z"
   },
   {
     "name": "nzbnoob",
     "status": "up",
-    "time": 718,
+    "time": 739,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:13.763Z"
+    "last_checked_at": "2026-11-26T06:05:13.762Z"
   },
   {
     "name": "nzbplanet",
     "status": "up",
-    "time": 611,
+    "time": 595,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:14.348Z"
+    "last_checked_at": "2026-11-26T06:05:14.349Z"
   },
   {
     "name": "nzbstars",
@@ -337,67 +337,67 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:14.731Z"
+    "last_checked_at": "2026-11-26T06:02:14.731Z"
   },
   {
     "name": "nzbxs",
     "status": "up",
-    "time": 236,
+    "time": 589,
     "uptimeDay": "72.73",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:45:15.477Z"
+    "last_checked_at": "2026-11-26T06:45:15.478Z"
   },
   {
     "name": "pourcesoir",
     "status": "up",
-    "time": 851,
+    "time": 907,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:47:16.242Z"
+    "last_checked_at": "2026-11-26T06:47:16.242Z"
   },
   {
     "name": "scenenzbs",
     "status": "up",
-    "time": 2179,
+    "time": 1948,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:17.059Z"
+    "last_checked_at": "2026-11-26T06:05:17.058Z"
   },
   {
     "name": "Sky of Usenet",
     "status": "up",
-    "time": 847,
+    "time": 667,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:08:17.523Z"
+    "last_checked_at": "2026-11-26T06:08:17.523Z"
   },
   {
     "name": "tabula-rasa",
     "status": "up",
-    "time": 913,
+    "time": 763,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:08:18.432Z"
+    "last_checked_at": "2026-11-26T06:08:18.433Z"
   },
   {
     "name": "The Hive",
     "status": "up",
-    "time": 1004,
+    "time": 989,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:08:18.947Z"
+    "last_checked_at": "2026-11-26T06:08:18.947Z"
   },
   {
     "name": "Usenet Hub",
@@ -407,86 +407,86 @@
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:19.938Z"
+    "last_checked_at": "2026-11-26T06:02:19.939Z"
   },
   {
     "name": "usenetcrawler",
     "status": "up",
-    "time": 1067,
+    "time": 1006,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:20.463Z"
+    "last_checked_at": "2026-11-26T06:05:20.465Z"
   },
   {
     "name": "usenethd",
     "status": "up",
-    "time": 1484,
+    "time": 1166,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:08:21.459Z"
+    "last_checked_at": "2026-11-26T06:08:21.460Z"
   },
   {
     "name": "IPv6 test",
     "status": "up",
-    "time": 79,
+    "time": 68,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:21.921Z"
+    "last_checked_at": "2026-11-26T06:05:21.922Z"
   },
   {
     "name": "binzb",
     "status": "up",
-    "time": 337,
+    "time": 260,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:22.559Z"
+    "last_checked_at": "2026-11-26T06:05:22.559Z"
   },
   {
     "name": "brothers-of-usenet",
     "status": "up",
-    "time": 140,
+    "time": 128,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:23.413Z"
+    "last_checked_at": "2026-11-26T06:05:23.415Z"
   },
   {
     "name": "FileSharingTalk",
     "status": "up",
-    "time": 87,
+    "time": 94,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:23.767Z"
+    "last_checked_at": "2026-11-26T06:05:23.767Z"
   },
   {
     "name": "findnzb",
     "status": "up",
-    "time": 142,
+    "time": 187,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:05:24.475Z"
+    "last_checked_at": "2026-11-26T06:05:24.475Z"
   },
   {
     "name": "digital-carnage",
     "status": "up",
-    "time": 257,
+    "time": 147,
     "uptimeDay": "100.00",
     "uptimeWeek": null,
     "uptimeMonth": null,
     "uptimeYear": null,
-    "last_checked_at": "2026-11-26T05:02:32.325Z"
+    "last_checked_at": "2026-11-26T06:02:32.324Z"
   }
 ]
